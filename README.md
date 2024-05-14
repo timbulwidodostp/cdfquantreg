@@ -5,6 +5,8 @@ General linear models using finite-tailed cdf-quantile distributions for variabl
 
 General linear models using cdf-quantile distributions for variables on the unit interval Use cdfquantreg With (In) R Software
 
+https://www.youtube.com/watch?v=XqHxQfXP9R4
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
